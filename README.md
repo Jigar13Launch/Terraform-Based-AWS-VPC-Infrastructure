@@ -1,4 +1,3 @@
-# Terraform-Based-AWS-VPC-Infrastructure
 # Project 2: Terraform-Based AWS VPC Infrastructure
 
 Infrastructure-as-Code project that provisions a custom AWS VPC with one
